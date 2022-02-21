@@ -1,2 +1,2 @@
-**Open the code and start customizing!**
+**Personal Portfolio Website**
 Check it out at: https://codewithsmith.com!
