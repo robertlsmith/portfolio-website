@@ -1,1 +1,1 @@
-**Check it out at:** https://codewithsmith.com!
+**Check it out at:** https://www.codewithsmith.com!
